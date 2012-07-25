@@ -2,7 +2,7 @@
 <title>Anselmo L. S. Melo's Git Achievements</title>
 <description></description>
 <link></link>
-<item><title>Apprentice Investigator (Level 1)</title><description>Used git blame to annotate a file with information about how each line changed.</description></item>
+<item><title>Apprentice Miller (Level 3)</title><description>Add only part of a file to the stage 108 times with git add -p.</description></item>
 <item><title>Locksmith (Level 5)</title><description>Add Signed-off-by line at the end of the commit log message using git commit -s.</description></item>
 <item><title>Apprentice Architect (Level 2)</title><description>Created a new repository with git init.</description></item>
 <item><title>Cleaning lady (Level 5)</title><description>Remove untracked files from the working tree with git clean</description></item>
