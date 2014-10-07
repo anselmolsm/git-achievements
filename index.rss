@@ -2,6 +2,8 @@
 <title>Anselmo L. S. Melo's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Fisherman (Level 5)</title><description>Look for specified patterns in the current repository with git grep.</description></item>
+<item><title>Master Architect (Level 7)</title><description>Created a new repository with git init.</description></item>
 <item><title>Apprentice Carpenter (Level 2)</title><description>Custom git hooks are installed which help catch issues before they are shared.</description></item>
 <item><title>Fisherman (Level 4)</title><description>Look for specified patterns in the current repository with git grep.</description></item>
 <item><title>Master Presenter (Level 10)</title><description>Shows one or more objects (blobs, trees, tags and commits) with git show</description></item>
@@ -20,6 +22,4 @@
 <item><title>Master Merchant (Level 7)</title><description>Added an external repository with git remote add.</description></item>
 <item><title>Chimney Sweeper (Level 5)</title><description>Used git gc to run a number of housekeeping tasks on the current repository.</description></item>
 <item><title>Master Blacksmith (Level 8)</title><description>Created a branch using git checkout -b.</description></item>
-<item><title>Hunter (Level 6)</title><description>Used git bisect to perform a binary search to find which change introduced a bug.</description></item>
-<item><title>Master Historian (Level 9)</title><description>Investigate the commit log using git log.</description></item>
 </channel></rss>
