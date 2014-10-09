@@ -2,6 +2,7 @@
 <title>Anselmo L. S. Melo's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Investigator (Level 6)</title><description>Used git blame to annotate a file with information about how each line changed.</description></item>
 <item><title>Apprentice Gardner (Level 1)</title><description>Shows the commit ancestry graph with git show-branch</description></item>
 <item><title>Fisherman (Level 5)</title><description>Look for specified patterns in the current repository with git grep.</description></item>
 <item><title>Master Architect (Level 7)</title><description>Created a new repository with git init.</description></item>
@@ -21,5 +22,4 @@
 <item><title>Master Stone Mason (Level 12)</title><description>Added files to the index area for inclusion in the next commit with git add</description></item>
 <item><title>Master Thug (Level 9)</title><description>Forced pushed a branch with git push -f</description></item>
 <item><title>Master Merchant (Level 7)</title><description>Added an external repository with git remote add.</description></item>
-<item><title>Chimney Sweeper (Level 5)</title><description>Used git gc to run a number of housekeeping tasks on the current repository.</description></item>
 </channel></rss>
