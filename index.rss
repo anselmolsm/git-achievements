@@ -2,8 +2,6 @@
 <title>Anselmo L. S. Melo's Git Achievements</title>
 <description></description>
 <link></link>
-<item><title>Master Archivist (Level 8)</title><description>Prepare each commit with its patch in one file per commit with git format-patch</description></item>
-<item><title>Master Cleaning lady (Level 12)</title><description>Remove untracked files from the working tree with git clean</description></item>
 <item><title>Master Cleaning lady (Level 11)</title><description>Remove untracked files from the working tree with git clean</description></item>
 <item><title>Master Merchant (Level 9)</title><description>Added an external repository with git remote add.</description></item>
 <item><title>Master Investigator (Level 8)</title><description>Used git blame to annotate a file with information about how each line changed.</description></item>
@@ -22,4 +20,6 @@
 <item><title>Master Butcher (Level 11)</title><description>Performed an interactive rebase using git rebase -i.</description></item>
 <item><title>Master Stone Mason (Level 13)</title><description>Added files to the index area for inclusion in the next commit with git add</description></item>
 <item><title>Master Pilgrim (Level 8)</title><description>Performed a rebase using git rebase --onto.</description></item>
+<item><title>Master Miller (Level 12)</title><description>Add only part of a file to the stage 7468 times with git add -p.</description></item>
+<item><title>Master Historian (Level 11)</title><description>Investigate the commit log using git log.</description></item>
 </channel></rss>
